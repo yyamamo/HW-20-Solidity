@@ -14,5 +14,5 @@
 #### Step 3: Send transactions: Enter the total ETH amount to be sent in “Value” box and click deposit button under Deployed Contracts, which start MetaMask again. Then, click confirm.  	 
 
 ![](Assoc_screen.gif)
-
+#### To verify the transactions, look up the address/Transaction hash on Etherscan https://etherscan.io/
 ### My Kovan testnet address is "0x9AD9E9d025b088342D0ac468B498498E0028fe9e"
