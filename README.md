@@ -13,5 +13,6 @@
 #### Step 2: Deploy the contract: Click Deploy & run transaction icon on the left, click a down allow button to expand the DELOY section and enter recipients’ addresses. Then, click “transact” button. This triggers to start MetaMask.  When you see the popup window of MetaMask, click Confirm to create contract on the network.  
 #### Step 3: Send transactions: Enter the total ETH amount to be sent in “Value” box and click deposit button under Deployed Contracts, which start MetaMask again. Then, click confirm.  	 
 
+![](Assoc_screen.gif)
 
-## My testnet address on Kovan Testnet Network "0x9AD9E9d025b088342D0ac468B498498E0028fe9e"
+### My Kovan testnet address is "0x9AD9E9d025b088342D0ac468B498498E0028fe9e"
