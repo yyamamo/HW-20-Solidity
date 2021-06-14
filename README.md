@@ -1,5 +1,5 @@
 # HW-20-Solidity
-## There are 3 contract sas follws;
+## The follwoing three contracts can be deployed on Kovan Testnet.
 ## 1. AssociateProfitSplitter.sol
 #### This contract allows Human Resources to distribute Ether to three associate level employees evenly.   
 ## 2. TieredProfitSplitter.sol
