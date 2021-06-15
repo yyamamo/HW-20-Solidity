@@ -10,7 +10,7 @@
 #### To test how the vesting period works, use fastforward function with fakenow = 100 days (The function is commented out at this moment frin line 19 to 22). Replace “now” to “fakenow”. There are 2 “now” to be replaced in this contract.  
 ## How to use those contracts 
 ### Step 1: Compile a contract 
-#### Click Solidity compiler icon on the left and click Compile button. When it is compiled successfully, you will see a green check mark on the compiler icon.
+#### Click Solidity compiler icon on the left and click "Compile" button. When it is compiled successfully, you will see a green check mark on the compiler icon.
 ![](gifs/FileCompiler.gif)
 
 ### Step 2: Deploy a contract
