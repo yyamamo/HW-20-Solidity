@@ -14,9 +14,9 @@
 ![](gifs/FileCompiler.gif)
 
 ### Step 2: Deploy a contract
-#### Click "Deploy and Run Transaction" icon on the left to switch Compile panel to Deploy panel. 
+#### Click "Deploy and Run Transaction" icon on the left to switch from the Compile panel to the Deploy panel on the left. 
 #### Select "Injected Web3" in ENVIRONMENT box, and make sure the right network and account are selected.
-#### Click a down allow button to expand the DELOY section and enter a recipient’s addresses. Then, click “transact” button. This triggers to start MetaMask. When you see the popup window of MetaMask, click Confirm to create a contract on the network.  
+#### Click a down allow button to expand the DEPLOY section and enter a recipient’s addresses. Then, click “transact” button. This triggers to start MetaMask. When you see the popup window of MetaMask, click Confirm to deploy the contract on the network.  
 ![](gifs/Deploy.gif)
 ### Step 3 Send transactions 
 #### Enter the total ETH amount to be sent in “Value” box and click "deposit" button under the Deployed Contracts section when using AssociateProfitSplitter.sol and TieredProfitSplitter.sol, or click "distribute" button when using DeferredEquityPlan.sol. It starts MetaMask again. Then, click confirm to send the transaction.  
