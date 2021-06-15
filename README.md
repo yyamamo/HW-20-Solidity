@@ -11,7 +11,8 @@
 ## How to use those contracts 
 ### Step 1: Compile a contract 
 #### Click Solidity compiler icon on the left and click compile button. When it is compiled successfully, you will see a green check mark on the compiler icon.
-![](FileCompiler.gif)
+![](gifs/FileCompiler.gif)
+
 ### Step 2: Deploy a contract
 #### Click "Deploy and Run Transaction" icon on the left to switch Compile panel to Deploy panel. 
 #### Select "Injected Web3" in ENVIRONMENT box, and make sure the right network and account are selected.
