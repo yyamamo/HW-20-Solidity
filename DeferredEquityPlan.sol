@@ -17,7 +17,7 @@ contract DeferredEquityPlan {
     uint unlock_time = start_time + 365 days; 
     
     // uint fakenow = now;
-    // function fastfoward() public { 
+    // function fastforward() public { 
     //      fakenow += 100 days;
     //}
 
