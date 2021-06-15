@@ -7,7 +7,7 @@
 #### The distribution % to CEO, CTO and Bob are 60%, 25% and 15%, respectively.     
 ## 3. DeferredEquityPlan.sol
 #### This contract allows to distribute the total of 1,000 shares with annual distribution of 250 over 4 years for one employee.  
-#### To test how the vesting period works, use fastfoward function with fakenow = 100 days (The function is commented out at this moment, line 19 to 22). Replace “now” to “fakenow”. There are 2 “now” in this contract.  
+#### To test how the vesting period works, use fastforward function with fakenow = 100 days (The function is commented out at this moment, line 19 to 22). Replace “now” to “fakenow”. There are 2 “now” in this contract.  
 ## How to use those contracts 
 #### Step 1: Compile the contract: Click Solidity complier icon on the left and click compile button. 
 #### Step 2: Deploy the contract: Click Deploy & run transaction icon on the left, click a down allow button to expand the DELOY section and enter recipients’ addresses. Then, click “transact” button. This triggers to start MetaMask.  When you see the popup window of MetaMask, click Confirm to create contract on the network.  
